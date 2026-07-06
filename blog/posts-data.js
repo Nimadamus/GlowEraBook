@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "the-silent-killer-how-lack-of-sleep-raises-your-risk-of-stroke",
+    title: "The Silent Killer: How Lack of Sleep Raises Your Risk of Stroke",
+    excerpt: "How chronic sleep loss quietly raises your risk of stroke, heart disease, and more, plus practical tips to sleep better tonight.",
+    date: "2026-07-06",
+    readTime: "3 min read",
+    category: "Wellness"
+  },
+  {
     slug: "why-your-self-care-routine-keeps-failing",
     title: "Why Your Self-Care Routine Keeps Failing (And What Actually Works)",
     excerpt: "Most self-care advice is built for a life you don't have. Here's the gentler, more honest approach Glow Era teaches instead.",

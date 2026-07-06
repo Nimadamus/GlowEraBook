@@ -56,7 +56,7 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{title}, Glow Era Blog | Prudence Neo</title>
+<title>{title}, Glow Era Blog | Prudence Nteo</title>
 <meta name="description" content="{excerpt}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -96,7 +96,7 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
 
       <div class="article-cta">
         <h3>Ready to start your glow era?</h3>
-        <p>Grab your copy of Glow Era by Prudence Neo and begin your own journey back to yourself.</p>
+        <p>Grab your copy of Glow Era by Prudence Nteo and begin your own journey back to yourself.</p>
         <a href="https://www.amazon.com/dp/B0GZKK3TYL/" class="btn btn-primary" target="_blank" rel="noopener">Read the Book</a>
       </div>
     </div>
@@ -106,7 +106,7 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
 <footer class="site-footer">
   <div class="container footer-inner">
     <span class="logo footer-logo">Glow&nbsp;Era</span>
-    <p>&copy; <span id="year"></span> Glow Era by Prudence Neo. All rights reserved.</p>
+    <p>&copy; <span id="year"></span> Glow Era by Prudence Nteo. All rights reserved.</p>
   </div>
 </footer>
 

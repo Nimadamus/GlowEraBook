@@ -7,7 +7,7 @@ const BLOG_POSTS = [
     date: "2026-07-06",
     readTime: "3 min read",
     category: "Wellness",
-    image: "images/glow-arrow-one.jpg"
+    image: "images/glow-arrow-one.png"
   },
   {
     slug: "why-your-self-care-routine-keeps-failing",

@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "How chronic sleep loss quietly raises your risk of stroke, heart disease, and more, plus practical tips to sleep better tonight.",
     date: "2026-07-06",
     readTime: "3 min read",
-    category: "Wellness"
+    category: "Wellness",
+    image: "images/glow-arrow-one.png"
   },
   {
     slug: "why-your-self-care-routine-keeps-failing",

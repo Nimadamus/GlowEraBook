@@ -1,13 +1,18 @@
-document.getElementById('year').textContent = new Date().getFullYear();
+const yearEl = document.getElementById('year');
+if (yearEl) yearEl.textContent = new Date().getFullYear();
 
 const header = document.getElementById('siteHeader');
-window.addEventListener('scroll', () => {
-  header.classList.toggle('scrolled', window.scrollY > 40);
-});
+if (header) {
+  window.addEventListener('scroll', () => {
+    header.classList.toggle('scrolled', window.scrollY > 40);
+  });
+}
 
 const coverImg = document.getElementById('coverImg');
 const bookCover = document.getElementById('bookCover');
-coverImg.addEventListener('error', () => bookCover.classList.add('no-image'));
+if (coverImg && bookCover) {
+  coverImg.addEventListener('error', () => bookCover.classList.add('no-image'));
+}
 
 const revealEls = document.querySelectorAll('[data-reveal]');
 const observer = new IntersectionObserver((entries) => {

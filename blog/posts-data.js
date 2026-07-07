@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "nutrition-without-the-guilt-how-to-eat-in-your-glow-era",
+    title: "Nutrition Without the Guilt: How to Eat in Your Glow Era",
+    excerpt: "Diet culture taught you to fear food. Here's a gentler, more sustainable way to nourish your body and actually feel good.",
+    date: "2026-07-07",
+    readTime: "3 min read",
+    category: "Wellness"
+  },
+  {
     slug: "the-silent-killer-how-lack-of-sleep-raises-your-risk-of-stroke",
     title: "The Silent Killer: How Lack of Sleep Raises Your Risk of Stroke",
     excerpt: "How chronic sleep loss quietly raises your risk of stroke, heart disease, and more, plus practical tips to sleep better tonight.",

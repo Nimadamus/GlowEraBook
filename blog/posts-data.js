@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "Diet culture taught you to fear food. Here's a gentler, more sustainable way to nourish your body and actually feel good.",
     date: "2026-07-07",
     readTime: "3 min read",
-    category: "Wellness"
+    category: "Wellness",
+    image: "images/nutrition.jpeg"
   },
   {
     slug: "the-silent-killer-how-lack-of-sleep-raises-your-risk-of-stroke",

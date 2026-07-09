@@ -172,6 +172,9 @@ def main():
     insert_post_entry(slug, title, excerpt, category, date_iso, rtime)
     rebuild_sitemap()
 
+    # SEO + internal-linking enrichment (canonical/OG/JSON-LD, author box, related posts)
+    subprocess.run([sys.executable, str(ROOT / "enrich_blog_seo.py")], cwd=ROOT, check=True)
+
     print(f"Created blog/{slug}.html")
     print(f"Updated blog/posts-data.js and sitemap.xml")
 

@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "why-putting-yourself-last-feels-normal-but-is-quietly-destroying-your-glow",
+    title: "Why Putting Yourself Last Feels Normal (But Is Quietly Destroying Your Glow)",
+    excerpt: "Choosing everyone else first feels like the default setting. Here are 5 gentle ways to start choosing you, without the guilt.",
+    date: "2026-07-08",
+    readTime: "4 min read",
+    category: "Self-Care",
+    image: "images/putting-yourself-last.png"
+  },
+  {
     slug: "nutrition-without-the-guilt-how-to-eat-in-your-glow-era",
     title: "Nutrition Without the Guilt: How to Eat in Your Glow Era",
     excerpt: "Diet culture taught you to fear food. Here's a gentler, more sustainable way to nourish your body and actually feel good.",

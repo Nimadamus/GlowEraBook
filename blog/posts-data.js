@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "how-to-build-unshakable-confidence-one-kept-promise-at-a-time",
+    title: "How to Build Unshakable Confidence (One Kept Promise at a Time)",
+    excerpt: "Confidence is not something you are born with. It is built quietly, in private, one small kept promise at a time. Here is how to begin.",
+    date: "2026-07-09",
+    readTime: "5 min read",
+    category: "Confidence",
+    image: "images/unshakable-confidence.jpg"
+  },
+  {
     slug: "why-putting-yourself-last-feels-normal-but-is-quietly-destroying-your-glow",
     title: "Why Putting Yourself Last Feels Normal (But Is Quietly Destroying Your Glow)",
     excerpt: "Choosing everyone else first feels like the default setting. Here are 5 gentle ways to start choosing you, without the guilt.",

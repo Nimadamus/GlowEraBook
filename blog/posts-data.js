@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "reclaiming-joy-after-burnout-a-gentle-guide-to-feeling-like-yourself-again",
+    title: "Reclaiming Joy After Burnout: A Gentle Guide to Feeling Like Yourself Again",
+    excerpt: "Burnout quietly steals your joy, here is how to slowly rebuild rest, pleasure, and meaning without forcing it.",
+    date: "2026-07-10",
+    readTime: "6 min read",
+    category: "Wellness"
+  },
+  {
     slug: "how-to-build-unshakable-confidence-one-kept-promise-at-a-time",
     title: "How to Build Unshakable Confidence (One Kept Promise at a Time)",
     excerpt: "Confidence is not something you are born with. It is built quietly, in private, one small kept promise at a time. Here is how to begin.",

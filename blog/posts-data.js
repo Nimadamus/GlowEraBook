@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "Burnout quietly steals your joy, here is how to slowly rebuild rest, pleasure, and meaning without forcing it.",
     date: "2026-07-10",
     readTime: "6 min read",
-    category: "Wellness"
+    category: "Wellness",
+    image: "images/reclaiming-joy-after-burnout.png"
   },
   {
     slug: "how-to-build-unshakable-confidence-one-kept-promise-at-a-time",

@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "A gentle 40-minute evening wind-down ritual, stretching, chamomile tea, and gratitude, to release workday tension and reclaim your rest.",
     date: "2026-07-11",
     readTime: "2 min read",
-    category: "Wellness"
+    category: "Wellness",
+    image: "images/evening-wind-down-ritual.jpeg"
   },
   {
     slug: "reclaiming-joy-after-burnout-a-gentle-guide-to-feeling-like-yourself-again",

@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "the-ritual-reclaiming-joy-after-burnout",
+    title: "The Ritual: Reclaiming Joy After Burnout",
+    excerpt: "A gentle 40-minute evening wind-down ritual, stretching, chamomile tea, and gratitude, to release workday tension and reclaim your rest.",
+    date: "2026-07-11",
+    readTime: "2 min read",
+    category: "Wellness"
+  },
+  {
     slug: "reclaiming-joy-after-burnout-a-gentle-guide-to-feeling-like-yourself-again",
     title: "Reclaiming Joy After Burnout: A Gentle Guide to Feeling Like Yourself Again",
     excerpt: "Burnout quietly steals your joy, here is how to slowly rebuild rest, pleasure, and meaning without forcing it.",

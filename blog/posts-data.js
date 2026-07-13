@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "morning-glow-magic-detox-tea-lemon-and-lime-recipe-for-glowing-skin-and-energy",
+    title: "Morning Glow Magic Detox Tea: Lemon and Lime Recipe for Glowing Skin and Energy",
+    excerpt: "A caffeine-light citrus detox tea with ginger, turmeric, and hibiscus for glowing skin, gut health, and natural morning energy.",
+    date: "2026-07-13",
+    readTime: "2 min read",
+    category: "Wellness Recipes"
+  },
+  {
     slug: "the-ritual-reclaiming-joy-after-burnout",
     title: "The Ritual: Reclaiming Joy After Burnout",
     excerpt: "A gentle 40-minute evening wind-down ritual, stretching, chamomile tea, and gratitude, to release workday tension and reclaim your rest.",

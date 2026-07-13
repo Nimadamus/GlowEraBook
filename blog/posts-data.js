@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "A caffeine-light citrus detox tea with ginger, turmeric, and hibiscus for glowing skin, gut health, and natural morning energy.",
     date: "2026-07-13",
     readTime: "2 min read",
-    category: "Wellness Recipes"
+    category: "Wellness Recipes",
+    image: "images/morning-glow-detox-tea.jpeg"
   },
   {
     slug: "the-ritual-reclaiming-joy-after-burnout",

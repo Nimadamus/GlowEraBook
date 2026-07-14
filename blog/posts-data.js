@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "easy-one-pan-keto-chicken-and-vegetables-low-carb-20-minutes",
+    title: "Easy One-Pan Keto Chicken and Vegetables (Low Carb, 20 Minutes)",
+    excerpt: "A 20-minute, one-pan keto chicken and vegetable dinner that is high in protein, low in carbs, and easy to meal prep.",
+    date: "2026-07-14",
+    readTime: "2 min read",
+    category: "Wellness Recipes",
+    image: "images/keto-chicken-veggies.jpeg"
+  },
+  {
     slug: "morning-glow-magic-detox-tea-lemon-and-lime-recipe-for-glowing-skin-and-energy",
     title: "Morning Glow Magic Detox Tea: Lemon and Lime Recipe for Glowing Skin and Energy",
     excerpt: "A caffeine-light citrus detox tea with ginger, turmeric, and hibiscus for glowing skin, gut health, and natural morning energy.",

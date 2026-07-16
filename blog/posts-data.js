@@ -6,7 +6,8 @@ const BLOG_POSTS = [
     excerpt: "A complete beginner guide to building core strength, posture, and flexibility with a simple 20-minute home Pilates routine for men and women.",
     date: "2026-07-16",
     readTime: "3 min read",
-    category: "Fitness"
+    category: "Fitness",
+    image: "images/home-pilates.jpeg"
   },
   {
     slug: "easy-one-pan-keto-chicken-and-vegetables-low-carb-20-minutes",

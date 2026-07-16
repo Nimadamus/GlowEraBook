@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "home-pilates-for-men-and-women-complete-beginner-guide",
+    title: "Home Pilates for Men and Women: Complete Beginner Guide",
+    excerpt: "A complete beginner guide to building core strength, posture, and flexibility with a simple 20-minute home Pilates routine for men and women.",
+    date: "2026-07-16",
+    readTime: "3 min read",
+    category: "Fitness"
+  },
+  {
     slug: "easy-one-pan-keto-chicken-and-vegetables-low-carb-20-minutes",
     title: "Easy One-Pan Keto Chicken and Vegetables (Low Carb, 20 Minutes)",
     excerpt: "A 20-minute, one-pan keto chicken and vegetable dinner that is high in protein, low in carbs, and easy to meal prep.",

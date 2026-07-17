@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "am-i-anxious-or-just-stressed-understanding-the-difference-and-how-to-find-your-calm",
+    title: "Am I Anxious or Just Stressed? Understanding the Difference and How to Find Your Calm",
+    excerpt: "How to tell stress and anxiety apart, the symptoms of each, self-reflection questions, and gentle ways to find your calm.",
+    date: "2026-07-17",
+    readTime: "4 min read",
+    category: "Wellness",
+    image: "images/anxious-or-just-stressed.png"
+  },
+  {
     slug: "home-pilates-for-men-and-women-complete-beginner-guide",
     title: "Home Pilates for Men and Women: Complete Beginner Guide",
     excerpt: "A complete beginner guide to building core strength, posture, and flexibility with a simple 20-minute home Pilates routine for men and women.",

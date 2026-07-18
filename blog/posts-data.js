@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "7-factors-that-worsen-mental-health-as-you-age-and-gentle-ways-to-protect-it",
+    title: "7 Factors That Worsen Mental Health As You Age (And Gentle Ways to Protect It)",
+    excerpt: "Understanding the common factors behind mental health decline as you age, plus gentle, realistic ways to protect your peace.",
+    date: "2026-07-17",
+    readTime: "3 min read",
+    category: "Mental Health",
+    image: "images/mental-health-aging.jpeg"
+  },
+  {
     slug: "am-i-anxious-or-just-stressed-understanding-the-difference-and-how-to-find-your-calm",
     title: "Am I Anxious or Just Stressed? Understanding the Difference and How to Find Your Calm",
     excerpt: "How to tell stress and anxiety apart, the symptoms of each, self-reflection questions, and gentle ways to find your calm.",

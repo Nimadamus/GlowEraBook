@@ -1,14 +1,6 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
-    slug: "7-ways-to-rebuild-a-relationship-with-yourself",
-    title: "7 Ways to Rebuild a Relationship with Yourself",
-    excerpt: "Life gets busy and we drift away from ourselves. Here are 7 cozy, gentle ways to come home to the wonderful person you are.",
-    date: "2026-07-18",
-    readTime: "2 min read",
-    category: "Self-Care"
-  },
-  {
     slug: "healing-childhood-wounds-and-trauma-a-path-to-wholeness",
     image: "images/healing-childhood-wounds.jpeg",
     title: "Healing Childhood Wounds and Trauma: A Path to Wholeness",

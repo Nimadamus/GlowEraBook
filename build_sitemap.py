@@ -8,6 +8,11 @@ os.chdir(REPO)
 
 urls = [f"{BASE}/", f"{BASE}/blog/"]
 skip = {"google", "404"}
+for f in sorted(glob.glob("*.html")):
+    name = os.path.basename(f)
+    if name == "index.html" or any(name.startswith(s) for s in skip):
+        continue
+    urls.append(f"{BASE}/{name}")
 for f in sorted(glob.glob("blog/*.html")):
     name = os.path.basename(f)
     if name == "index.html" or any(name.startswith(s) for s in skip):

@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "healing-childhood-wounds-and-trauma-a-path-to-wholeness",
+    image: "images/healing-childhood-wounds.jpeg",
+    title: "Healing Childhood Wounds and Trauma: A Path to Wholeness",
+    excerpt: "Childhood wounds shape us, but they don't have to define us. A gentle, evidence-based guide to healing your inner child and reclaiming wholeness.",
+    date: "2026-07-18",
+    readTime: "4 min read",
+    category: "Mental Health"
+  },
+  {
     slug: "7-factors-that-worsen-mental-health-as-you-age-and-gentle-ways-to-protect-it",
     title: "7 Factors That Worsen Mental Health As You Age (And Gentle Ways to Protect It)",
     excerpt: "Understanding the common factors behind mental health decline as you age, plus gentle, realistic ways to protect your peace.",

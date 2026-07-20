@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "self-care-day-at-home-gentle-pamper-routines-for-deep-relaxation-and-glow",
+    title: "Self-Care Day at Home: Gentle Pamper Routines for Deep Relaxation and Glow",
+    excerpt: "A gentle at-home Soft Girl Pamper Day guide: cozy rituals, luxurious baths, body nourishment, and soul care for deep relaxation and natural glow.",
+    date: "2026-07-20",
+    readTime: "5 min read",
+    category: "Self-Care"
+  },
+  {
     slug: "healing-childhood-wounds-and-trauma-a-path-to-wholeness",
     image: "images/healing-childhood-wounds.jpeg",
     title: "Healing Childhood Wounds and Trauma: A Path to Wholeness",

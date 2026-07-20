@@ -2,6 +2,7 @@
 const BLOG_POSTS = [
   {
     slug: "self-care-day-at-home-gentle-pamper-routines-for-deep-relaxation-and-glow",
+    image: "images/self-care-pamper-day.jpeg",
     title: "Self-Care Day at Home: Gentle Pamper Routines for Deep Relaxation and Glow",
     excerpt: "A gentle at-home Soft Girl Pamper Day guide: cozy rituals, luxurious baths, body nourishment, and soul care for deep relaxation and natural glow.",
     date: "2026-07-20",

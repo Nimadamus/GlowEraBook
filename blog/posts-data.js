@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "glow-up-mornings-eating-breakfast-for-lasting-energy-focus-and-weight-control",
+    title: "Glow Up Mornings: Eating Breakfast for Lasting Energy, Focus and Weight Control",
+    excerpt: "Why a protein-rich breakfast is the simple morning habit that transforms your energy, focus, and results, plus a make-ahead keto egg muffin recipe.",
+    date: "2026-07-20",
+    readTime: "5 min read",
+    category: "Wellness Recipes",
+    image: "images/breakfast.jpeg"
+  },
+  {
     slug: "self-care-day-at-home-gentle-pamper-routines-for-deep-relaxation-and-glow",
     image: "images/self-care-pamper-day.jpeg",
     title: "Self-Care Day at Home: Gentle Pamper Routines for Deep Relaxation and Glow",

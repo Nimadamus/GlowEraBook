@@ -487,3 +487,19 @@ a.pillar-card { display: block; color: inherit; text-decoration: none; }
   text-align: center;
   margin-bottom: 36px;
 }
+
+/* ---- Topic cluster (Sleep & Heart Health) ---- */
+.article-updated { font-family: 'Jost', sans-serif; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; opacity: 0.6; margin-bottom: 32px; }
+.article-body ul { margin: 0 0 28px; padding-left: 22px; color: var(--ink-soft); font-size: 1.08rem; }
+.article-body li { margin-bottom: 12px; line-height: 1.65; }
+.article-body a { color: inherit; border-bottom: 1px solid currentColor; text-decoration: none; }
+.article-body a:hover { opacity: 0.7; }
+.article-sources { font-size: 0.98rem; }
+.article-disclaimer { font-size: 0.95rem; }
+.cluster-nav { margin: 48px 0; padding: 28px 30px; background: linear-gradient(180deg, #fdf6ef 0%, #fbeee2 100%); border: 1px solid rgba(184,134,63,0.18); border-radius: 16px; }
+.cluster-nav-label { font-family: 'Playfair Display', serif; font-size: 1.25rem; margin: 0 0 6px; }
+.cluster-nav-intro { font-size: 0.98rem; opacity: 0.75; margin: 0 0 16px; }
+.cluster-nav ul { list-style: none; margin: 0; padding: 0; }
+.cluster-nav li { margin-bottom: 10px; font-size: 1rem; }
+.cluster-nav-current span { opacity: 0.6; }
+.cluster-nav-current em { font-style: normal; font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; opacity: 0.5; margin-left: 8px; }

@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "sleep-and-heart-health",
+    title: "Sleep and Heart Health: Why 7 to 9 Hours of Rest Is Your Heart's Best Ally",
+    excerpt: "How sleep affects your heart, brain, and blood pressure, why the American Heart Association counts sleep as essential, and practical steps to sleep better tonight.",
+    date: "2026-07-21",
+    readTime: "7 min read",
+    category: "Heart Health",
+    image: "images/sleep.jpeg"
+  },
+  {
     slug: "glow-up-mornings-eating-breakfast-for-lasting-energy-focus-and-weight-control",
     title: "Glow Up Mornings: Eating Breakfast for Lasting Energy, Focus and Weight Control",
     excerpt: "Why a protein-rich breakfast is the simple morning habit that transforms your energy, focus, and results, plus a make-ahead keto egg muffin recipe.",

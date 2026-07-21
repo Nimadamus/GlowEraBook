@@ -1,0 +1,93 @@
+{
+  "id": "sleep-heart-health",
+  "name": "Sleep and Heart Health",
+  "navHeading": "The Sleep and Heart Health Series",
+  "navIntro": "A connected guide to how sleep affects blood pressure, the heart, and stroke risk.",
+  "pillar": "sleep-and-heart-health",
+  "pages": [
+    {
+      "slug": "sleep-and-heart-health",
+      "role": "pillar",
+      "title": "Sleep and Heart Health: Why 7 to 9 Hours of Rest Is Your Heart's Best Ally",
+      "anchor": "the complete guide to sleep and heart health",
+      "published": true
+    },
+    {
+      "slug": "the-silent-killer-how-lack-of-sleep-raises-your-risk-of-stroke",
+      "role": "support",
+      "title": "The Silent Killer: How Lack of Sleep Raises Your Risk of Stroke",
+      "anchor": "how lack of sleep raises your risk of stroke",
+      "published": true
+    },
+    {
+      "slug": "can-lack-of-sleep-cause-a-stroke",
+      "role": "support",
+      "title": "Can Lack of Sleep Cause a Stroke? What the Research Shows",
+      "anchor": "whether lack of sleep can cause a stroke",
+      "published": false
+    },
+    {
+      "slug": "how-many-hours-of-sleep-reduce-stroke-risk",
+      "role": "support",
+      "title": "How Many Hours of Sleep Help Reduce Stroke Risk?",
+      "anchor": "how many hours of sleep help reduce stroke risk",
+      "published": false
+    },
+    {
+      "slug": "sleep-deprivation-and-high-blood-pressure",
+      "role": "support",
+      "title": "Sleep Deprivation and High Blood Pressure: The Hidden Connection",
+      "anchor": "the link between sleep deprivation and high blood pressure",
+      "published": false
+    },
+    {
+      "slug": "can-poor-sleep-cause-a-heart-attack",
+      "role": "support",
+      "title": "Can Poor Sleep Cause a Heart Attack?",
+      "anchor": "whether poor sleep can cause a heart attack",
+      "published": false
+    },
+    {
+      "slug": "sleep-apnea-and-stroke-risk",
+      "role": "support",
+      "title": "Sleep Apnea and Stroke Risk: Symptoms You Should Not Ignore",
+      "anchor": "sleep apnea symptoms and stroke risk",
+      "published": false
+    },
+    {
+      "slug": "waking-up-throughout-the-night-and-heart-health",
+      "role": "support",
+      "title": "Why Waking Up Throughout the Night May Affect Your Heart",
+      "anchor": "why waking up throughout the night may affect your heart",
+      "published": false
+    },
+    {
+      "slug": "irregular-sleep-schedules-and-heart-health",
+      "role": "support",
+      "title": "Irregular Sleep Schedules and Heart Health",
+      "anchor": "how irregular sleep schedules affect heart health",
+      "published": false
+    },
+    {
+      "slug": "24-hours-without-sleep-effects-on-the-body",
+      "role": "support",
+      "title": "What Happens to Your Body After 24 Hours Without Sleep?",
+      "anchor": "what happens to your body after 24 hours without sleep",
+      "published": false
+    },
+    {
+      "slug": "signs-you-are-not-getting-enough-quality-sleep",
+      "role": "support",
+      "title": "Signs You Are Not Getting Enough Quality Sleep",
+      "anchor": "the signs you are not getting enough quality sleep",
+      "published": false
+    },
+    {
+      "slug": "how-to-improve-sleep-for-better-heart-health",
+      "role": "support",
+      "title": "How to Improve Sleep for Better Heart Health",
+      "anchor": "how to improve sleep for better heart health",
+      "published": false
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "skincare-wellness-glow-from-the-inside-out-in-your-glow-era",
+    title: "Skincare Wellness: Glow From the Inside Out in Your Glow Era",
+    excerpt: "Radiance isn't chased with trending products, it's cultivated through gentle topical care and deep inner nourishment.",
+    date: "2026-07-21",
+    readTime: "1 min read",
+    category: "Wellness"
+  },
+  {
     slug: "sleep-and-heart-health",
     title: "Sleep and Heart Health: Why 7 to 9 Hours of Rest Is Your Heart's Best Ally",
     excerpt: "How sleep affects your heart, brain, and blood pressure, why the American Heart Association counts sleep as essential, and practical steps to sleep better tonight.",

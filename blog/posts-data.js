@@ -5,8 +5,9 @@ const BLOG_POSTS = [
     title: "Skincare Wellness: Glow From the Inside Out in Your Glow Era",
     excerpt: "Radiance isn't chased with trending products, it's cultivated through gentle topical care and deep inner nourishment.",
     date: "2026-07-21",
-    readTime: "1 min read",
-    category: "Wellness"
+    readTime: "6 min read",
+    category: "Wellness",
+    image: "images/skincare-wellness-hero.jpeg"
   },
   {
     slug: "sleep-and-heart-health",

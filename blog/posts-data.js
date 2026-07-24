@@ -1,6 +1,15 @@
 // Newest post first. Each new_blog_post.py run prepends one entry here.
 const BLOG_POSTS = [
   {
+    slug: "the-skincare-in-a-can-ritual-how-sardines-became-the-secret-to-a-natural-glow",
+    title: "The Skincare in a Can Ritual: How Sardines Became the Secret to a Natural Glow",
+    excerpt: "One humble tin of sardines, rich in omega-3s, vitamin D, and zinc, may be the simplest skin ritual in your Glow Era.",
+    date: "2026-07-23",
+    readTime: "3 min read",
+    category: "Wellness Recipes",
+    image: "images/sardine-skincare-ritual.jpeg"
+  },
+  {
     slug: "skincare-wellness-glow-from-the-inside-out-in-your-glow-era",
     title: "Skincare Wellness: Glow From the Inside Out in Your Glow Era",
     excerpt: "Radiance isn't chased with trending products, it's cultivated through gentle topical care and deep inner nourishment.",
